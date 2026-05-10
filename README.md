@@ -1,18 +1,14 @@
-<!-- Profile README — Gimindu Gimsara · refined -->
+<!-- Profile README — Gimindu Gimsara -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0f172a,70:1e293b,100:334155&height=145&section=header&text=Gimindu%20Gimsara&fontSize=38&fontColor=f8fafc&animation=fadeIn" alt="Gimindu Gimsara" width="100%" />
+# Gimindu Gimsara
+
+**Final Year IT Undergraduate · UI/UX · QA**
+
+*Design × Engineering × Quality — interfaces people understand, systems teams trust.*
 
 <br/>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=22&duration=3800&pause=900&color=A5B4FC&center=true&vCenter=true&multiline=true&repeat=true&width=920&height=85&lines=SLIIT+%C2%B7+Final+Year+Information+Technology;UI%2FUX+Design+%C2%B7+Quality+Assurance;Web+%C2%B7+IoT+%C2%B7+Research+%26+Innovation" alt="Typing subtitle" />
-
-<br/>
-
-<sub><strong>Design × Engineering × Quality</strong> — interfaces people understand, systems teams trust.</sub>
-
-<br/><br/>
 
 ![Final Year IT](https://img.shields.io/badge/Final_Year-IT_Undergraduate-1e293b?style=for-the-badge&labelColor=334155)
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-Design-6366F1?style=for-the-badge&logo=figma&logoColor=white&labelColor=4c1d95)
@@ -20,7 +16,6 @@
 
 <br/>
 
-[![Profile views](https://komarev.com/ghpvc/?username=G-Gimsara&label=Views&color=334155&style=for-the-badge)](https://github.com/G-Gimsara)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gimindu-gimsara)
 [![GitHub](https://img.shields.io/badge/GitHub-G--Gimsara-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/G-Gimsara)
 
@@ -61,29 +56,7 @@ Final-year **Information Technology** undergraduate at **SLIIT**. I work across 
 
 ## Tech stack
 
-<div align="center">
-
-<sub><strong>Toolkit at a glance</strong></sub>
-
-<br/><br/>
-
-<img height="36" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-<img height="36" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-<img height="36" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-<img height="36" alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
-<img height="36" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-<img height="36" alt="Node" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
-<img height="36" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-<img height="36" alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-<img height="36" alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
-<img height="36" alt="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
-<img height="36" alt="Figma" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
-<img height="36" alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
-<img height="36" alt="Arduino" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" />
-
-<br/><br/>
-
-</div>
+Core tools: HTML, CSS, JavaScript, TypeScript, React, Node.js, Python, Java, MySQL, MongoDB, Figma, Git, Arduino.
 
 <details open>
 <summary><b>UI / UX</b></summary>
@@ -312,12 +285,5 @@ Open to **research collaborations**, **hackathons**, **open source**, and **inte
 
 <br/>
 
-<div align="center">
+**Thanks for stopping by** — building real-world solutions with IoT, the web, and rigorous QA.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,100:020617&height=90&section=footer" alt="" width="100%" />
-
-<sub><strong>Thanks for stopping by</strong> — building real-world solutions with IoT, the web, and rigorous QA.</sub>
-
-<br/><br/>
-
-</div>
