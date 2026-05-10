@@ -1,38 +1,132 @@
-<!-- Premium GitHub profile README — Gimindu Gimsara -->
+<!-- Profile README — Gimindu Gimsara · refined -->
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=rounded&color=0:1e293b,100:334155&height=160&section=header&text=Gimindu%20Gimsara&fontSize=44&fontColor=f8fafc&animation=fadeIn&desc=Final%20Year%20IT%20%E2%80%A2%20UI%2FUX%20%E2%80%A2%20QA&descAlignY=62&descSize=18)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0f172a,70:1e293b,100:334155&height=145&section=header&text=Gimindu%20Gimsara&fontSize=38&fontColor=f8fafc&animation=fadeIn" alt="Gimindu Gimsara" width="100%" />
 
-### Hello — I'm **Gimindu Gimsara**
+<br/>
 
-**Final Year IT Undergraduate · UI/UX Designer · QA Intern**
+<img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=22&duration=3800&pause=900&color=A5B4FC&center=true&vCenter=true&multiline=true&repeat=true&width=920&height=85&lines=SLIIT+%C2%B7+Final+Year+Information+Technology;UI%2FUX+Design+%C2%B7+Quality+Assurance;Web+%C2%B7+IoT+%C2%B7+Research+%26+Innovation" alt="Typing subtitle" />
 
-*Building thoughtful interfaces, reliable software, and research-backed solutions.*
+<br/>
 
-[![Profile views](https://komarev.com/ghpvc/?username=G-Gimsara&label=Profile%20views&color=475569&style=flat-square)](https://github.com/G-Gimsara)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gimindu-gimsara)
-[![GitHub](https://img.shields.io/badge/GitHub-G--Gimsara-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/G-Gimsara)
+<sub><strong>Design × Engineering × Quality</strong> — interfaces people understand, systems teams trust.</sub>
+
+<br/><br/>
+
+![Final Year IT](https://img.shields.io/badge/Final_Year-IT_Undergraduate-1e293b?style=for-the-badge&labelColor=334155)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-Design-6366F1?style=for-the-badge&logo=figma&logoColor=white&labelColor=4c1d95)
+![QA](https://img.shields.io/badge/QA-Quality_Assurance-475569?style=for-the-badge&logo=selenium&logoColor=white&labelColor=1e293b)
+
+<br/>
+
+[![Profile views](https://komarev.com/ghpvc/?username=G-Gimsara&label=Views&color=334155&style=for-the-badge)](https://github.com/G-Gimsara)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gimindu-gimsara)
+[![GitHub](https://img.shields.io/badge/GitHub-G--Gimsara-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/G-Gimsara)
 
 <br/>
 
 </div>
 
+
 ---
+
 
 ## About
 
-Final-year **Information Technology** undergraduate at **SLIIT**, blending **UI/UX design**, **quality assurance**, and **full-stack web development**. I enjoy turning complex problems into clear experiences — from **real-time & IoT systems** to polished web interfaces — and I stay curious about **research-driven innovation** that ships in the real world.
+<table>
+<tr>
+<td width="68%" valign="top">
+
+Final-year **Information Technology** undergraduate at **SLIIT**. I work across **UI/UX**, **QA**, and **full-stack web development**, with a bias toward clarity: sensible layouts, dependable releases, and interfaces that survive real users.
+
+**IoT-based flood monitoring & alert systems**, **research-led prototypes**, and **production-minded testing** are where I spend most of my energy.
+
+</td>
+<td width="32%" valign="top">
 
 | | |
 |:---|:---|
-| **Focus** | End-to-end product thinking — design fidelity, test coverage, and dependable code |
-| **Background** | Former **UI/UX Design** intern · Current **QA** intern |
-| **Interests** | Web platforms, **IoT**, automation testing, and research-led builds |
+| **Education** | SLIIT · Final year IT |
+| **Experience** | UI/UX intern → **QA intern** |
+| **Themes** | Web · IoT · Research |
+
+</td>
+</tr>
+</table>
+
 
 ---
 
+
 ## Tech stack
+
+<div align="center">
+
+<sub><strong>Toolkit at a glance</strong></sub>
+
+<br/><br/>
+
+<img height="36" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+<img height="36" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+<img height="36" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+<img height="36" alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
+<img height="36" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+<img height="36" alt="Node" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
+<img height="36" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+<img height="36" alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+<img height="36" alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
+<img height="36" alt="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
+<img height="36" alt="Figma" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
+<img height="36" alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+<img height="36" alt="Arduino" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" />
+
+<br/><br/>
+
+</div>
+
+<details open>
+<summary><b>UI / UX</b></summary>
+
+<br/>
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white)
+![Sketch](https://img.shields.io/badge/Sketch-F7B500?style=flat-square&logo=sketch&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
+![Wireframing](https://img.shields.io/badge/Wireframing-Low_fidelity-6366F1?style=flat-square)
+![Prototyping](https://img.shields.io/badge/Prototyping-Interactive-6366F1?style=flat-square&logo=framer&logoColor=white)
+![User research](https://img.shields.io/badge/User_research-Interviews_%26_surveys-475569?style=flat-square)
+![Information architecture](https://img.shields.io/badge/Information_architecture-Sitemap_%26_flows-475569?style=flat-square)
+![Design systems](https://img.shields.io/badge/Design_systems-Tokens_%26_components-6366F1?style=flat-square)
+![Usability testing](https://img.shields.io/badge/Usability_testing-Moderated-64748B?style=flat-square)
+![WCAG](https://img.shields.io/badge/Accessibility-WCAG_focus-059669?style=flat-square)
+![Material Design](https://img.shields.io/badge/Material_Design-Guidelines-757575?style=flat-square&logo=materialdesign&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>QA & testing</b></summary>
+
+<br/>
+
+![Manual testing](https://img.shields.io/badge/Manual_testing-Exploratory-475569?style=flat-square)
+![Test cases](https://img.shields.io/badge/Test_cases-Documentation-475569?style=flat-square)
+![Regression](https://img.shields.io/badge/Regression-Suites-475569?style=flat-square)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-API_testing-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![REST](https://img.shields.io/badge/REST-Contract_testing-6B7280?style=flat-square)
+![Jest](https://img.shields.io/badge/Jest-JavaScript-323330?style=flat-square&logo=jest&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-5-25A162?style=flat-square&logo=junit5&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-Python-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![Test automation](https://img.shields.io/badge/Test_automation-CI_ready-555555?style=flat-square&logo=githubactions&logoColor=white)
+![Bug tracking](https://img.shields.io/badge/Bug_tracking-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Quality gates](https://img.shields.io/badge/Quality_gates-Reviews_%26_sign_off-64748B?style=flat-square)
+
+</details>
 
 <details open>
 <summary><b>Frontend</b></summary>
@@ -42,7 +136,12 @@ Final-year **Information Technology** undergraduate at **SLIIT**, blending **UI/
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 </details>
 
@@ -52,7 +151,9 @@ Final-year **Information Technology** undergraduate at **SLIIT**, blending **UI/
 <br/>
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 
 </details>
@@ -63,38 +164,24 @@ Final-year **Information Technology** undergraduate at **SLIIT**, blending **UI/
 <br/>
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 </details>
 
 <details open>
-<summary><b>Tools</b></summary>
+<summary><b>Tools & platforms</b></summary>
 
 <br/>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>Testing</b></summary>
-
-<br/>
-
-![QA](https://img.shields.io/badge/QA_Automation-Hands_on-555555?style=flat-square)
-![API Testing](https://img.shields.io/badge/API_Testing-REST-6B7280?style=flat-square&logo=postman&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>UI / UX</b></summary>
-
-<br/>
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Design](https://img.shields.io/badge/Design_Systems-Components-6366F1?style=flat-square&logo=figma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-Collaboration-4A154B?style=flat-square&logo=slack&logoColor=white)
 
 </details>
 
@@ -103,149 +190,133 @@ Final-year **Information Technology** undergraduate at **SLIIT**, blending **UI/
 
 <br/>
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI_CD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 </details>
 
+
 ---
 
-## Highlighted work & projects
+
+## Selected work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### EcoGuard-AI
+#### EcoGuard-AI
 
-AI-assisted environmental intelligence — exploring smarter sensing and decision support for sustainability-oriented systems.
+<sub>`AI · Environment · Sensing`</sub>
 
-</td>
-<td width="50%" valign="top">
+AI-assisted environmental intelligence — smarter sensing and decision support for sustainability-oriented systems.
 
-### Flood risk monitoring & alert
+---
 
-**IoT-based flood monitoring & alert system** — real-time awareness and resilient alerting workflows.
+#### Flood risk monitoring & alert
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<sub>`IoT · Real-time · Alerts`</sub>
 
-### QA · automation testing
-
-Test strategy, regression coverage, and **QA automation** practices from hands-on internship experience.
+**IoT-based flood monitoring & alert system** — situational awareness, resilient alerting, and dependable workflows under pressure.
 
 </td>
 <td width="50%" valign="top">
 
-### Portfolio website
+#### QA · automation testing
 
-Personal **portfolio** and web presence — crafted for clarity, performance, and a polished UI feel.
+<sub>`Quality · Automation · Delivery`</sub>
+
+Test strategy, regression coverage, and **QA automation** shaped by hands-on internship experience.
+
+---
+
+#### Portfolio website
+
+<sub>`Web · UX · Performance`</sub>
+
+Personal **portfolio** focused on clarity, performance, and a polished interface layer.
 
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top">
 
-### Research & other builds
+#### Research & additional builds
 
-**Research projects** pushing experimentation beyond coursework · **Finance microservices system** · **UI/UX design work** in **Figma**
+<sub>`R&D · Backend · Design`</sub>
+
+**Research projects** beyond coursework · **Finance microservices system** · **UI/UX** craft in **Figma**
 
 </td>
 </tr>
 </table>
 
----
-
-## GitHub activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=G-Gimsara&show_icons=true&rank_icon=github&hide_border=true&include_all_commits=true&line_height=24&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-Gimsara&layout=compact&hide_border=true&langs_count=8&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com/?user=G-Gimsara&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=E6EDF3&sideLabels=E6EDF3&currStreakNum=E6EDF3&dates=8B949E" alt="GitHub streak" />
-
-<sub>Stats themes use GitHub-dark–aligned colors for consistent contrast. They remain readable on light backgrounds.</sub>
-
-</div>
 
 ---
 
-## Experience & focus
 
-| Area | What I emphasize |
+## Professional focus
+
+| | |
 |:---:|:---|
-| **UI/UX design** | User flows, accessible layouts, and design systems in **Figma** |
-| **QA testing** | Structured testing, automation mindset, and clear defect lifecycle |
-| **Web development** | Modern front ends and pragmatic full-stack patterns |
-| **IoT & real-time** | **Arduino**, sensing pipelines, and dependable alerting |
-| **Research projects** | Hypothesis-led exploration with measurable outcomes |
+| **UI/UX** | Flows, accessibility-minded layouts, and scalable patterns in **Figma** |
+| **QA** | Traceable tests, automation where it pays off, tight feedback loops with dev |
+| **Web** | Modern front ends and pragmatic full-stack delivery |
+| **IoT & real-time** | **Arduino**, sensing paths, alerting that operators can trust |
+| **Research** | Hypothesis-led work with something measurable at the end |
+
 
 ---
 
-## Currently learning
+
+## Currently exploring
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Cloud fundamentals](https://img.shields.io/badge/Cloud_fundamentals-In_progress-64748B?style=flat-square)
-![Testing depth](https://img.shields.io/badge/Test_automation-Deepening-64748B?style=flat-square&logo=selenium&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-Deepening-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1e293b)
+![Cloud](https://img.shields.io/badge/Cloud_fundamentals-Core_services-64748B?style=for-the-badge&labelColor=1e293b)
+![Test depth](https://img.shields.io/badge/Test_strategy-Automation_patterns-475569?style=for-the-badge&logo=selenium&logoColor=white&labelColor=1e293b)
 
 </div>
 
 ---
 
-## Open to collaboration
+## Collaboration
 
-I'm open to **student research**, **hackathons**, **open-source**, and **internship-style** collaborations — especially around **web apps**, **QA automation**, **UI/UX**, and **IoT / real-time systems**.
+Open to **research collaborations**, **hackathons**, **open source**, and **internship-style** projects — especially **web**, **QA automation**, **UI/UX**, and **IoT / real-time** systems.
 
 <div align="center">
 
-[![Collaborate](https://img.shields.io/badge/Collaborate-Message_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gimindu-gimsara)
+[![LinkedIn DM](https://img.shields.io/badge/Start_a_conversation-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gimindu-gimsara)
 
 </div>
 
+
 ---
+
 
 ## Contact
 
 <div align="center">
 
 | Channel | Link |
-|:---:|:---|
-| **LinkedIn** | [**in/gimindu-gimsara**](https://www.linkedin.com/in/gimindu-gimsara) |
-| **GitHub** | [**G-Gimsara**](https://github.com/G-Gimsara) |
-| **Portfolio** | [**Profile & pinned repositories**](https://github.com/G-Gimsara?tab=repositories) |
+|:---:|:---:|
+| LinkedIn | [**in/gimindu-gimsara**](https://www.linkedin.com/in/gimindu-gimsara) |
+| GitHub | [**@G-Gimsara**](https://github.com/G-Gimsara) |
+| Work | [**Repositories & pins**](https://github.com/G-Gimsara?tab=repositories) |
 
-<sub>Prefer email? Send a short note via LinkedIn — I’m happy to share a direct address for serious opportunities.</sub>
-
-</div>
-
----
-
-## Contribution graph
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/G-Gimsara/G-Gimsara/output/github-contribution-grid-snake.svg)
-
-<sub>Add the <a href="https://github.com/Platane/snk">snake workflow</a> to your profile repo if this image does not load yet.</sub>
+<sub>Serious opportunities: reach out on LinkedIn — I’ll share direct email when it makes sense.</sub>
 
 </div>
-
----
-
-<div align="center">
-
-**Thanks for visiting**
-
-*I enjoy building real-world solutions with IoT, web technologies, and rigorous QA.*
 
 <br/>
 
-<img src="https://img.shields.io/badge/Profile-README-64748B?style=flat-square&logo=github&logoColor=white" alt="Footer badge" />
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,100:020617&height=90&section=footer" alt="" width="100%" />
+
+<sub><strong>Thanks for stopping by</strong> — building real-world solutions with IoT, the web, and rigorous QA.</sub>
 
 <br/><br/>
 
