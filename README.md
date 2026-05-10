@@ -8,18 +8,9 @@
 
 *Design × Engineering × Quality — interfaces people understand, systems teams trust.*
 
-<br/>
+**Roles:** Final Year IT · UI/UX Design · Quality Assurance
 
-![Final Year IT](https://img.shields.io/badge/Final_Year-IT_Undergraduate-1e293b?style=for-the-badge&labelColor=334155)
-![UI/UX](https://img.shields.io/badge/UI%2FUX-Design-6366F1?style=for-the-badge&logo=figma&logoColor=white&labelColor=4c1d95)
-![QA](https://img.shields.io/badge/QA-Quality_Assurance-475569?style=for-the-badge&logo=selenium&logoColor=white&labelColor=1e293b)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gimindu-gimsara)
-[![GitHub](https://img.shields.io/badge/GitHub-G--Gimsara-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/G-Gimsara)
-
-<br/>
+**Links:** [LinkedIn](https://www.linkedin.com/in/gimindu-gimsara) · [github.com/G-Gimsara](https://github.com/G-Gimsara)
 
 </div>
 
