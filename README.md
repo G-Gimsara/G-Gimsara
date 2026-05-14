@@ -4,13 +4,13 @@
 
 # Gimindu Gimsara
 
-**Final Year IT Undergraduate · UI/UX · QA**
+**Final Year IT Undergraduate · QA · UI/UX**
 
-*Design × Engineering × Quality — interfaces people understand, systems teams trust.*
+*Design × Engineering × Quality - interfaces people understand, systems teams trust.*
 
-**Roles:** Final Year IT · UI/UX Design · Quality Assurance
+**Roles:** Final Year IT - Quality Assurance · UI/UX Design
 
-**Links:** [LinkedIn](https://www.linkedin.com/in/gimindu-gimsara) · [github.com/G-Gimsara](https://github.com/G-Gimsara)
+**Links:** [LinkedIn](https://www.linkedin.com/in/gimindu-gimsara) ·  [Portfolio](https://gimindu-portfolio.vercel.app/)
 
 </div>
 
@@ -34,7 +34,7 @@ Final-year **Information Technology** undergraduate at **SLIIT**. I work across 
 | | |
 |:---|:---|
 | **Education** | SLIIT · Final year IT |
-| **Experience** | UI/UX intern → **QA intern** |
+| **Experience** | UI/UX intern  **QA intern** |
 | **Themes** | Web · IoT · Research |
 
 </td>
@@ -174,7 +174,7 @@ Core tools: HTML, CSS, JavaScript, TypeScript, React, Node.js, Python, Java, MyS
 
 <sub>`AI · Environment · Sensing`</sub>
 
-AI-assisted environmental intelligence — smarter sensing and decision support for sustainability-oriented systems.
+AI-assisted environmental intelligence - smarter sensing and decision support for sustainability-oriented systems.
 
 ---
 
@@ -182,7 +182,7 @@ AI-assisted environmental intelligence — smarter sensing and decision support 
 
 <sub>`IoT · Real-time · Alerts`</sub>
 
-**IoT-based flood monitoring & alert system** — situational awareness, resilient alerting, and dependable workflows under pressure.
+**IoT-based flood monitoring & alert system** - situational awareness, resilient alerting, and dependable workflows under pressure.
 
 </td>
 <td width="50%" valign="top">
@@ -224,8 +224,8 @@ Personal **portfolio** focused on clarity, performance, and a polished interface
 
 | | |
 |:---:|:---|
-| **UI/UX** | Flows, accessibility-minded layouts, and scalable patterns in **Figma** |
 | **QA** | Traceable tests, automation where it pays off, tight feedback loops with dev |
+| **UI/UX** | Flows, accessibility-minded layouts, and scalable patterns in **Figma** |
 | **Web** | Modern front ends and pragmatic full-stack delivery |
 | **IoT & real-time** | **Arduino**, sensing paths, alerting that operators can trust |
 | **Research** | Hypothesis-led work with something measurable at the end |
@@ -248,7 +248,7 @@ Personal **portfolio** focused on clarity, performance, and a polished interface
 
 ## Collaboration
 
-Open to **research collaborations**, **hackathons**, **open source**, and **internship-style** projects — especially **web**, **QA automation**, **UI/UX**, and **IoT / real-time** systems.
+Open to **research collaborations**, **hackathons**, **open source**, and **internship-style** projects - especially **web**, **QA automation**, **UI/UX**, and **IoT / real-time** systems.
 
 <div align="center">
 
@@ -268,13 +268,13 @@ Open to **research collaborations**, **hackathons**, **open source**, and **inte
 |:---:|:---:|
 | LinkedIn | [**in/gimindu-gimsara**](https://www.linkedin.com/in/gimindu-gimsara) |
 | GitHub | [**@G-Gimsara**](https://github.com/G-Gimsara) |
-| Work | [**Repositories & pins**](https://github.com/G-Gimsara?tab=repositories) |
+| Portfolio | [**Portfolio**](https://gimindu-portfolio.vercel.app/) |
 
-<sub>Serious opportunities: reach out on LinkedIn — I’ll share direct email when it makes sense.</sub>
+<sub>Serious opportunities: reach out on LinkedIn - I’ll share direct email when it makes sense.</sub>
 
 </div>
 
 <br/>
 
-**Thanks for stopping by** — building real-world solutions with IoT, the web, and rigorous QA.
+**Thanks for stopping by** - building real-world solutions with IoT, the web, and rigorous QA.
 
